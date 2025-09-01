@@ -41,8 +41,26 @@ public class Student
 	{
 		this.course = course;
 	}
+
+	public int getId()
+	{
+		return id;
+	}
+
+	public String getName()
+	{
+		return name;
+	}
+
+	public int getAge()
+	{
+		return age;
+	}
+
+	public String getCourse()
+	{
+		return course;
+	}
 	
 	
 }
-
-
