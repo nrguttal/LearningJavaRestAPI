@@ -1,6 +1,6 @@
-package repository;
+package Repository;
 
-import models.Student;
+import Models.Student;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

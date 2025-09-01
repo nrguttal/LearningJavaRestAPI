@@ -1,7 +1,7 @@
-package restapi;
+package RestAPI;
 
-import models.Student;
-import services.StudentService;
+import Models.Student;
+import Services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
