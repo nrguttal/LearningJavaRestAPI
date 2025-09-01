@@ -1,6 +1,6 @@
-package Repository;
+package repository;
 
-import Models.College;
+import models.College;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

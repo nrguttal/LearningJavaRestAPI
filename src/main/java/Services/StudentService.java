@@ -1,6 +1,6 @@
-package Services;
+package services;
 
-import Models.Student;
+import models.Student;
 import org.springframework.stereotype.Service;
 
 @Service
